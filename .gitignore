@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Frontend
+node_modules/
+/fastapi_ocr_llm/.env
+/streamlit_frontend/.env
+
+# Project specific
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+*.pyc
+
+# MongoDB
+data/db/
+
+# OCR related
+*.jpg
+*.jpeg
+*.png
+*.pdf
+/uploads/
+
+# Distribution
+dist/
+build/
