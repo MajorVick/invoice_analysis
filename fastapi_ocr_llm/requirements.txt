@@ -1,11 +1,13 @@
 # requirements.txt
-fastapi==0.68.1
-uvicorn==0.15.0
-motor==2.5.1
-python-multipart==0.0.5
-python-dotenv==0.19.0
-pydantic==1.8.2
-requests==2.26.0
+fastapi
+uvicorn
+motor
+python-multipart
+python-dotenv
+pydantic
+requests
 pymongo
-easyocr==1.6.2
-torch==2.0.1
+easyocr
+pillow
+PyPDF2
+
